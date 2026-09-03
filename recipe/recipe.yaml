@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.5.0"
+  version: "1.5.1"
 
 package:
   name: ad
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/a/ad/ad-${{ version }}.tar.gz
-  sha256: eaedc1ae1a0970df603518aba36b14b1f41997cdb2c479740875e25a30075ba5
+  sha256: ee7c5dfe8744ba43bfac9e32b0c6e9f710ad71dc4174189c82f8a8a079bfb47b
 
 build:
   number: 0
